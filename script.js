@@ -23,11 +23,11 @@ function onAddItemSubmit(e){
         alert('Please add an item');
         return;
     }
+
     // check for editMode;
     if(isEditMode){
         const itemToEdit = itemList.querySelector('.edit-mode')
         removeItemFromStorage(itemToEdit.textContent)
-
         itemToEdit.classList.remove('edit-mode');
         itemToEdit.remove();
         isEditMode = false;
@@ -54,17 +54,19 @@ function onAddItemSubmit(e){
 function addItemToDOM(item){
     const li = document.createElement('li');
     li.appendChild(document.createTextNode(item));
-    const button = createButton('remove-item btn-link text-red');
-    // add li to the DOM
-    li.appendChild(button);
+    const deleteButton = createButton('remove-item btn-link text-red');
+    li.appendChild(deleteButton);
     itemList.appendChild(li);
     itemInput.value = '';
 }
 function createButton(classes){
     const button = document.createElement("button");
     button.className = classes;
-    const icon = createIcon('fa-solid fa-xmark')
-    button.appendChild(icon);
+    const iconDelete = createIcon('fa-solid fa-xmark');
+    const iconEdit = createIcon('fa-solid fa-pen');
+    button.appendChild(iconDelete);
+    button.appendChild(iconEdit);
+
     return button;
 }
 
@@ -94,9 +96,11 @@ function getItemsFromStorage() {
 
 }
 function onClickItem(e){
+    console.log(e.target);
     if(e.target.parentElement.classList.contains('remove-item')){
+        console.log(e.target.parentElement.parentElement);
         removeItem(e.target.parentElement.parentElement);
-    }else if (e.target.closest('li')){
+    }else if (e.target.parentElement.classList.contains('edit-item')){
         setItemToEdit(e.target);
     }
 }
@@ -104,6 +108,7 @@ function checkIfItemExists(item) {
     const itemsFromStorage = getItemsFromStorage();
     return itemsFromStorage.includes(item);
 }
+
 function setItemToEdit(item){
     isEditMode = true;
 
@@ -117,16 +122,22 @@ function setItemToEdit(item){
     itemInput.value = item.textContent;
 
 }
+
 function removeItem(item) {
-    if(confirm(`Are you sure you want to remove the item "${item.textContent}"?`)){
+    let itemToRemove = item.target.parentElement.parentElement;
+    if(itemToRemove.className !== "container"){
+
+        if(confirm(`Are you sure you want to remove the item "${itemToRemove.innerText}"?` )){
         // Remove item from DOM
-        item.remove();
+        itemToRemove.remove();
 
         //remove item from storage
-        removeItemFromStorage(item.textContent);
+        removeItemFromStorage(itemToRemove.innerText);
         checkUI();
 
+        }
     }
+    
 }
 
 function removeItemFromStorage(item){

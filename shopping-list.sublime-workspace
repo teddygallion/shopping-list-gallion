@@ -1,0 +1,950 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getItemsFromStorage"
+			],
+			[
+				"add",
+				"addItemToStorage"
+			],
+			[
+				"ite",
+				"itemsFromStorage"
+			],
+			[
+				"shw",
+				"showSpecies"
+			],
+			[
+				"Hy",
+				"Hydrochaeris"
+			],
+			[
+				"do",
+				"Domain"
+			],
+			[
+				"an",
+				"Animalia"
+			],
+			[
+				"Hydroc",
+				"Hydrochoerus"
+			],
+			[
+				"Hydro",
+				"Hydrochaeris"
+			],
+			[
+				"num",
+				"numbersArray"
+			],
+			[
+				"sent",
+				"sentence2"
+			],
+			[
+				"sente",
+				"sentence2"
+			],
+			[
+				"project",
+				"project_categories"
+			],
+			[
+				"projec",
+				"project_categories"
+			],
+			[
+				"categ",
+				"project_category"
+			],
+			[
+				"Men",
+				"MENU_LENGTH"
+			],
+			[
+				"print",
+				"printSevens"
+			],
+			[
+				"team",
+				"teamWins"
+			],
+			[
+				"AER",
+				"ARR_LEN"
+			],
+			[
+				"nu",
+				"numToCheck"
+			],
+			[
+				"arr",
+				"ARR_LEN"
+			],
+			[
+				"ARR",
+				"ARR_LEN"
+			],
+			[
+				"nm",
+				"numToCheck"
+			],
+			[
+				"card",
+				"cardsArr"
+			],
+			[
+				"hasf",
+				"hasFourOfAKind"
+			],
+			[
+				"has",
+				"hasFourOfAKind"
+			],
+			[
+				"burr",
+				"burritoType"
+			],
+			[
+				"topSelli",
+				"topSellingBurritoType"
+			],
+			[
+				"topSellin",
+				"topSellingBurritoCount"
+			],
+			[
+				"burri",
+				"burritoChoice"
+			],
+			[
+				"burrito",
+				"burritoType"
+			],
+			[
+				"order",
+				"orderValid"
+			],
+			[
+				"bu",
+				"burritoType"
+			],
+			[
+				"validate",
+				"validateOrder"
+			],
+			[
+				"b",
+				"burritoChoice"
+			],
+			[
+				"B",
+				"burritoArray"
+			],
+			[
+				"valida",
+				"validateOrder"
+			],
+			[
+				"valid",
+				"validateOrderLength"
+			],
+			[
+				"or",
+				"orderLengthValid"
+			],
+			[
+				"ord",
+				"ORDER_COUNT"
+			],
+			[
+				"burrit",
+				"burritoType"
+			],
+			[
+				"top",
+				"topSellingBurritoType"
+			],
+			[
+				"topsell",
+				"topSellingBurritoType"
+			],
+			[
+				"n",
+				"NUM_TYPES"
+			],
+			[
+				"topse",
+				"topSellingBurritoType"
+			],
+			[
+				"cel",
+				"celsiusRef"
+			],
+			[
+				"to",
+				"toCelsiusByReference"
+			],
+			[
+				"forma",
+				"formattedString"
+			],
+			[
+				"sym",
+				"symbolsArr"
+			],
+			[
+				"asset",
+				"assetPairs"
+			],
+			[
+				"current",
+				"currentDay"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"c",
+				"chartreuse"
+			],
+			[
+				"flex",
+				"flex-basis"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"handle",
+				"handleTextChange"
+			],
+			[
+				"width",
+				"max-width"
+			],
+			[
+				"To",
+				"ToDoList"
+			],
+			[
+				"comm",
+				"commit_message"
+			],
+			[
+				"player",
+				"playerChoice"
+			],
+			[
+				"test",
+				"testArr"
+			],
+			[
+				"choi",
+				"choicesArray"
+			],
+			[
+				"comp",
+				"computerScore"
+			],
+			[
+				"pla",
+				"playerScore"
+			],
+			[
+				"compu",
+				"computerScore"
+			],
+			[
+				"com",
+				"computerScore"
+			],
+			[
+				"dis",
+				"displayScores"
+			],
+			[
+				"play",
+				"playRound"
+			],
+			[
+				"C",
+				"computerSelection"
+			],
+			[
+				"P",
+				"playerSelection"
+			],
+			[
+				"pl",
+				"playerSelection"
+			],
+			[
+				"co",
+				"computerSelection"
+			],
+			[
+				"playerS",
+				"playerScore"
+			],
+			[
+				"Com",
+				"computerScore"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2230,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 2995,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++11/C++11.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"live",
+				"Live Server: Start"
+			],
+			[
+				"li",
+				"Live Server: Open In Browser"
+			],
+			[
+				"liv",
+				"Live Server: Open In Browser"
+			],
+			[
+				"l",
+				"Live Server: Start"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"toggl",
+				"Toggle Block Comment"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"togg",
+				"Toggle Block Comment"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"set theme",
+				"UI: Select Theme"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mark",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color che",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"select them",
+				"UI: Select Theme"
+			],
+			[
+				"tog",
+				"Toggle Block Comment"
+			],
+			[
+				"b",
+				"Build With: C++11 - Run"
+			],
+			[
+				"t",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"caps",
+				"Convert Case: Swap Case"
+			],
+			[
+				"m",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"terminus ",
+				"Terminus: Reset"
+			],
+			[
+				"terminus",
+				"Terminus: Close All"
+			],
+			[
+				"bui",
+				"Build With: C++11 - Run"
+			],
+			[
+				"run",
+				"Build With: C++11 - Run"
+			],
+			[
+				"set c",
+				"Set Syntax: C++11"
+			],
+			[
+				"PAC",
+				"Package Control: Install Package"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"quo",
+				"Quokka.js: Profile"
+			],
+			[
+				"qu",
+				"Quokka.js: Start on Current File"
+			],
+			[
+				"q",
+				"Quokka.js: New JavaScript File"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa k",
+				"Package Control: Enable Package"
+			],
+			[
+				"s",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 400.0,
+		"history":
+		[
+			"console.log('hi');"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/teddy/Desktop/BVT/module2/udemy/shopping-list-gallion"
+	],
+	"file_history":
+	[
+		"/Users/teddy/Desktop/BVT/module2/shopping-list-gallion/script.js",
+		"/Users/teddy/Desktop/BVT/module2/shopping-list-gallion/index.html",
+		"/Users/teddy/Desktop/BVT/module2/shopping-list-gallion/different-domain.js",
+		"/Users/teddy/Desktop/BVT/module2/js-practice/animal-kingdom/aneemals.js",
+		"/Users/teddy/Downloads/quiz.js",
+		"/Users/teddy/Desktop/BVT/skritch",
+		"/Users/teddy/Downloads/IntCollection/IntCollection.h",
+		"/Users/teddy/Downloads/IntCollection/main.cpp",
+		"/Users/teddy/Downloads/IntCollection/IntCollection.cpp",
+		"/Users/teddy/Desktop/homework10.py",
+		"/Users/teddy/Desktop/randnum.py",
+		"/Users/teddy/homework10.py",
+		"/Users/teddy/Desktop/CCSF/C++/Week11/Assignments/NumberGuesser/NumberGuesser.h",
+		"/Users/teddy/Desktop/CCSF/C++/Week11/Assignments/NumberGuesser/NumberGuesser.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week11/Assignments/NumberGuesser/main.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week10/Assignments/circle/Rectangle.h",
+		"/Users/teddy/Desktop/CCSF/C++/Week10/Assignments/circle/Rectangle.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week10/Assignments/circle/rect/main.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week10/Assignments/circle/Circle.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week10/Assignments/circle/Circle.h",
+		"/Users/teddy/Desktop/CCSF/C++/Week10/Assignments/circle/main.cpp",
+		"/Users/teddy/Desktop/carmen/hw9.py",
+		"/Users/teddy/Desktop/diff2.js",
+		"/Users/teddy/Desktop/diff1.js",
+		"/Users/teddy/Desktop/CCSF/C++/Week10/Assignments/discussion10.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week9/Assignments/hw09.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week7/Assignments/leagueDMA.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week9/Discussion/taqueriastructs2.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week9/Discussion/taqueriastructs.cpp",
+		"/Users/teddy/Downloads/mom.csv",
+		"/Users/teddy/Desktop/CCSF/C++/Week7/Assignments/PointerTasks.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week8/Assignments/scratch.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week8/Assignments/assignment08.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week8/Discussion/discussion08.cpp",
+		"/Users/teddy/Desktop/Dev/portfolio/projects.sql",
+		"/Users/teddy/Library/Application Support/Sublime Text/Packages/User/g++.sublime-build",
+		"/Users/teddy/Desktop/CCSF/C++/Week6/midterm/cards.txt",
+		"/Users/teddy/Desktop/CCSF/C++/Week6/midterm/midterm.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week5/Discussions/tg.discussion5.cpp",
+		"/Users/teddy/Desktop/Dev/scripts/scratch.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week5/Assignments/tg.assignment5.cpp",
+		"/Users/teddy/Desktop/Dev/scripts/scratch",
+		"/Users/teddy/Desktop/CCSF/C++/Week6/Assignments/practicequestions.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week5/Assignments/cfilegen.sh",
+		"/Users/teddy/Desktop/CCSF/C++/Week4/tg.assignment04.pokerhands.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week5/Discussions/cards.txt",
+		"/Users/teddy/Desktop/CCSF/C++/Week5/Discussions/tg.discussion5.cpp.cpp",
+		"/Users/teddy/Desktop/tg.assignment04.pokerhands.cpp",
+		"/Users/teddy/Desktop/Dev/newdev/pusherman/README.md",
+		"/Users/teddy/Desktop/CCSF/C++/Week4/Assignments/poker.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Week4/Assignments/taqueria.cpp",
+		"/Users/teddy/Downloads/numguesser.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week4/Assignments/taqueria.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week4/Assignments/taqueria2.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week3/Discussions/ftoc.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week3/Assignments/numguesser.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week4/Assignments/tg.assignment4.pokerhands.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week3/Assignments/randguess.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week2/Homework/blackjack.cpp",
+		"/Users/teddy/Desktop/module-one/module-one/helloWorld.html",
+		"/Users/teddy/Desktop/blackjack.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week1/Assignments/homework1.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week2/Discussions/gradebot.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week2/Discussions/tg.week2Discussion.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week1/Discussions/week1.discussion.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week2/Notes/whileLoops.md",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/tg.assignment0.cpp",
+		"/Users/teddy/Desktop/Dev/C++/scratch/hullo.cpp",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week2/Notes/forLoops.md",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week2/Notes/week2notes.md",
+		"/Users/teddy/Desktop/CCSF/C++/Assignments/Week2/Notes/week2.notes",
+		"/Users/teddy/Desktop/Dev/C++ Notes/Notes.md",
+		"/Users/teddy/Desktop/bot project/bot/app.js",
+		"/Users/teddy/Desktop/test.txt",
+		"/Users/teddy/Desktop/bot/app.js",
+		"/Users/teddy/Downloads/Martinez.Assignment4.sql",
+		"/Users/teddy/Desktop/Dev/newdev/express-boilerplate/dreami-server/PATH",
+		"/Users/teddy/Desktop/Dev/newdev/dreami/src/components/Sidebar.js",
+		"/Users/teddy/usr/local/var/postgres",
+		"/Users/teddy/Desktop/newdev/reactStuff/to-do-list/src/App.js",
+		"/Users/teddy/Desktop/Dev/timely/src/App.js",
+		"/Users/teddy/Desktop/Dev/timely/src/tomato-svgrepo-com.svg",
+		"/Users/teddy/Desktop/odin/javascript-exercises/03_reverseString/reverseString.js",
+		"/Users/teddy/Desktop/odin/javascript-exercises/03_reverseString/README.md",
+		"/Users/teddy/Desktop/newish/RockPaperScissors/index.html",
+		"/Users/teddy/Desktop/newish/RockPaperScissors/script.js",
+		"/Users/teddy/Desktop/newish/RockPaperScissors/README.md",
+		"/Users/teddy/Desktop/newish/RockPaperScissors/styles.css",
+		"/Users/teddy/Desktop/javascripting/introduction.js",
+		"/Users/teddy/Desktop/javascripting/variables.js",
+		"/Users/teddy/Desktop/javascripting/strings.js",
+		"/Users/teddy/Desktop/javascripting/string-length.js",
+		"/Users/teddy/Desktop/javascripting/revising-strings.js",
+		"/Users/teddy/Desktop/javascripting/ll.js",
+		"/Users/teddy/Desktop/mystery.py",
+		"/Users/teddy/Desktop/Dev/sneakylinks/sneakylinks",
+		"/Users/teddy/Desktop/proj/timely/time.ly/src/App.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/teddy/Desktop/BVT/module2/udemy/shopping-list-gallion"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								731,
+								731
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "script.js",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 131.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": true,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 348.0
+	},
+	"output.diff_views":
+	{
+		"height": 222.0
+	},
+	"output.exec":
+	{
+		"height": 383.0
+	},
+	"output.find_results":
+	{
+		"height": 108.0
+	},
+	"output.markdown":
+	{
+		"height": 108.0
+	},
+	"output.quokkajs_console":
+	{
+		"height": 96.0
+	},
+	"pinned_build_system": "Packages/User/g++.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 179.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 464.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

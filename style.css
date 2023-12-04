@@ -66,6 +66,9 @@ header h1 {
   padding: 10px 20px;
   cursor: pointer;
 }
+i{
+  margin-left:10px;
+}
 
 .btn:hover {
   background-color: #444;
